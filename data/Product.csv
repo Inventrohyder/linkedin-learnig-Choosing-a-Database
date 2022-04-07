@@ -1,0 +1,25 @@
+ProductID,ProductName,Category,Description,Price,ImageURL
+STA001,Panko Stuffed Mushrooms,Starters,"Large mushroom caps are filled a savory cream cheese, bacon and panko breadcrumb stuffing, topped with cheddar cheese.",7,http://734640.youcanlearnit.net/Panko%20stuffed%20mushrooms.jpg
+STA002,Mini Cheeseburgers,Starters,"These mini cheeseburgers are served on a fresh baked pretzel bun with lettuce, tomato, avocado, and your choice of cheese.",8,http://734640.youcanlearnit.net/Mini%20cheeseburgers.jpg
+STA003,French Onion Soup,Starters,"Caramelized onions slow cooked in a savory broth, topped with sourdough and a provolone cheese blend. Served with sourdough bread.",7,http://734640.youcanlearnit.net/French%20onion%20soup.jpg
+STA004,Artichokes with Garlic Aioli,Starters,Our artichokes are brushed with an olive oil and rosemary blend and then broiled to perfection. Served with a side of creamy garlic aioli.,9,http://734640.youcanlearnit.net/Artichokes%20with%20garlic%20aioli.jpg
+STA005,Parmesan Deviled Eggs,Starters,"These delectable little bites are made with organic eggs, fresh Parmesan, and chopped pine nuts.",8,http://734640.youcanlearnit.net/Parmesan%20deviled%20eggs.jpg
+SAL001,Garden Buffet,Salads,"Choose from our fresh, local, organically grown ingredients to make a custom salad.",10,http://734640.youcanlearnit.net/Garden%20buffet.jpg
+SAL002,House Salad,Salads,"Our house salad is made with romaine lettuce and spinach, topped with tomatoes, cucumbers, red onions and carrots. Served with a dressing of your choice.",7,http://734640.youcanlearnit.net/House%20salad.jpg
+SAL003,Chef's Salad,Salads,"The chef’s salad has cucumber, tomatoes, red onions, mushrooms, hard-boiled eggs, cheese, and hot grilled chicken on a bed of romaine lettuce. Served with croutons and your choice of dressing.",9,http://734640.youcanlearnit.net/Chef's%20salad.jpg
+SAL004,Quinoa Salmon Salad,Salads,"Our quinoa salad is served with quinoa, tomatoes, cucumber, scallions, and smoked salmon. Served with your choice of dressing.
+",12,http://734640.youcanlearnit.net/Quinoa%20salmon%20salad.jpg
+ENT001,Classic Burger,Entrees,"Our classic burger is made with 100% pure angus beef, served with lettuce, tomatoes, onions, pickles, and cheese of your choice. Veggie burger available upon request. Served with French fries, fresh fruit, or a side salad.",10,http://734640.youcanlearnit.net/Classic%20burger.jpg
+ENT002,Tomato Bruschetta Tortellini,Entrees,"This classic cheese tortellini is cooked in a sundried tomato sauce. Served with bruschetta topped with a tomato and basil marinara.
+",14,http://734640.youcanlearnit.net/Bruschetta%20tortellini.jpg
+ENT003,Handcrafted Pizza,Entrees,"Our thin crust pizzas are made fresh daily and topped with your choices of fresh meats, veggies, cheese, and sauce. Price includes two toppings. Add $1 for each additional topping.",10,http://734640.youcanlearnit.net/Handcrafted%20pizza.jpg
+ENT004,Barbecued Tofu Skewers,Entrees,"Our barbecued skewers include tofu, cherry tomatoes, bell peppers, and zucchini marinated in a ginger sesame sauce and charbroiled. Served with steamed rice.",10,http://734640.youcanlearnit.net/Barbecued%20tofu%20skewers.jpg
+ENT005,Fiesta Family Platter,Entrees,"This platter is perfect for sharing! Enjoy our spicy buffalo wings, traditional nachos, and cheese quesadillas served with freshly made guacamole dip.",16,http://734640.youcanlearnit.net/Fiesta%20family%20platter.jpg
+DES001,Crème Brulée,Desserts,Elegantly crafted creamy vanilla custard with a caramelized crunchy layer on top. Served with seasonal fruit.,9,http://734640.youcanlearnit.net/Creme%20brulee.jpg
+DES002,Cheesecake,Desserts,"Our New York Style Cheesecake is rich, smooth, and creamy. Available in various flavors, and with seasonal fruit toppings.",9,http://734640.youcanlearnit.net/Cheesecake.jpg
+DES003,Chocolate Chip Brownie,Desserts,A warm chocolate chip brownie served with chocolate or vanilla ice cream and rich chocolate sauce.,6,http://734640.youcanlearnit.net/Chocolate%20chip%20brownie.jpg
+DES004,Apple Pie,Desserts,Made with local granny smith apples to bring you the freshest classic apple pie available.,5,http://734640.youcanlearnit.net/Apple%20pie.jpg
+DES005,Mixed Berry Tart,Desserts,"Raspberries, blueberries, and strawberries on top of a creamy filling served in a crispy tart.",7,http://734640.youcanlearnit.net/Mixed%20berry%20tart.jpg
+BEV001,Tropical Blue Smoothie,Beverages,This blueberry mint-based smoothie is refreshing and perfect for any celebration.,6,http://734640.youcanlearnit.net/Tropical%20blue%20smoothie.jpg
+BEV002,Pomegranate Iced Tea,Beverages,Our unique blend of pomegranate juice and mint tea creates this light fusion of flavors.,4,http://734640.youcanlearnit.net/Pomegranate%20iced%20tea.jpg
+BEV003,Café Latte,Beverages,Our house blend of espresso and foamed milk. Can be served with flavored syrups and over ice. Non-dairy substitutions available upon request.,6,http://734640.youcanlearnit.net/Cafe%20latte.jpg
