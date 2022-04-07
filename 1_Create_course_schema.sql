@@ -1,0 +1,1 @@
+CREATE SCHEMA new_postgres_connection;
