@@ -62,3 +62,7 @@ VALUES ('xyz', -1, 'yes');
 -- This should work
 INSERT INTO christmas_products
 VALUES ('abc', 23, true);
+
+-- cascade
+-- You are able to drop everything that is dependent on that is referencing
+DROP TABLE christmas_products CASCADE;
