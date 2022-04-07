@@ -1,7 +1,7 @@
 SET SCHEMA 'new_postgres_connection';
 CREATE TABLE Customer
 (
-    CustomerID INT PRIMARY KEY,
+    id INT PRIMARY KEY,
     FirstName  VARCHAR(20),
     LastName   VARCHAR(20),
     Email      VARCHAR(50),
