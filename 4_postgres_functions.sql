@@ -34,3 +34,31 @@ SELECT *
 FROM customer c
          FULL OUTER JOIN "Order" o
                          ON o.customerId = c.id;
+
+-- check constraints
+-- Create a fake table
+CREATE TABLE christmas_products
+(
+    id        TEXT    NOT NULL,
+    price     INTEGER NOT NULL CHECK (price > 0), -- contraint
+    christmas BOOLEAN
+);
+
+-- insert values into christmas_products to see if constraint works
+-- This should work
+INSERT INTO christmas_products
+VALUES ('abc', 23, 'yes');
+
+-- check if values insert into christmas_products
+SELECT *
+FROM christmas_products;
+
+-- test price constraint again in christmas products
+-- This should fail
+INSERT INTO christmas_products
+VALUES ('xyz', -1, 'yes');
+
+-- boolean test
+-- This should work
+INSERT INTO christmas_products
+VALUES ('abc', 23, true);
