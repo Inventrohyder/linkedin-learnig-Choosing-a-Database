@@ -3,3 +3,12 @@
 
 # Vim Intermediary Files
 *.swp
+
+# Python enivornment
+.venv
+
+# Environment variables file
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints
